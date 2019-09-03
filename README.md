@@ -1,4 +1,4 @@
-Welcome to Glitch
+Image Classification using JavaScript
 =================
 
 Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
@@ -13,11 +13,12 @@ Your Project
 
 ### ← README.md
 
-That's this file, where you can tell people what your cool website does and how you built it.
+Source: https://codelabs.developers.google.com/codelabs/tensorflowjs-teachablemachine-codelab/index.html#1
 
 ### ← index.html
 
-Where you'll write the content of your website. 
+Tensflow tfjs
+KNN Classifiers
 
 ### ← style.css
 
@@ -25,8 +26,7 @@ CSS files add styling rules to your content.
 
 ### ← script.js
 
-If you're feeling fancy you can add interactivity to your site with JavaScript.
-
+JavaScript for KNN Classifiers
 ### ← assets
 
 Drag in `assets`, like images or music, to add them to your project
